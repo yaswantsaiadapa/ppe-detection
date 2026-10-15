@@ -1,6 +1,6 @@
 # PPE Compliance Detection System - Evaluation Report
 
-## 1. Dataset Strategy
+## 1. Dataset Strategy  
 
 For this assessment, the PPE Detection dataset from Roboflow was selected. The dataset contains 5140 annotated images distributed across training, validation, and testing splits.
 
